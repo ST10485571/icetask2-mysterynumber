@@ -1,4 +1,4 @@
-# ICE2-MysteryNumber
+ICE2-MysteryNumber
 
 Group Information
 - Group Number: 3  
@@ -32,5 +32,11 @@ Working together on this project helped us understand how to translate logical p
 
 
 Screenshots
+<img width="1600" height="900" alt="Screenshot 2025-08-06 224204" src="https://github.com/user-attachments/assets/df0ecfbf-6472-4b82-9c6d-3acae4ad94d0" />
+
+<img width="1600" height="900" alt="Screenshot 2025-08-06 224228" src="https://github.com/user-attachments/assets/4a3f6615-b928-45a3-8bfc-2e10d5d6f23d" />
+
+
 
 GitHub Repository
+https://github.com/ST10485571/icetask2-mysterynumber 
